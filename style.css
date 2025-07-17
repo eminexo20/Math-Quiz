@@ -1,0 +1,48 @@
+.basliq{
+    margin:20px;
+    
+    text-align: center;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: rgb(175, 231, 120);
+}
+.basliq:hover{
+    color: rgb(66, 227, 66);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(211, 104, 104);
+}
+.test-start{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 1px solid orange;
+    padding: 10px;
+    background-color: rgb(96, 208, 208);
+    display: block;
+}
+.btn{
+background-color: chartreuse;
+border-radius: 10px;
+padding: 5px;
+}
+.result{
+    color: red;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.test{
+    display: none;
+}
+#scoreSpan {
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: #27ae60; /* yaşıl ton — uğur rəngi */
+    margin-top: 15px;
+    display: none;
+    transition: all 0.4s ease-in-out;
+  }
+  
